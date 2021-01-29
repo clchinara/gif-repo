@@ -1,2 +1,2 @@
-# gif-repo
-A repo storing all GIF files used in my project repos
+# media-repo
+A repo storing all media files used in my project repos
